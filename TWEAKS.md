@@ -1,0 +1,1 @@
+* favicon: `convert logo.png -resize 32x32 favicon-32.png`
