@@ -1,12 +1,17 @@
-<img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
+# tgedr.com
 
-# Hugo Theme Stack Starter Template
+## configuration
+
+- domain tgedr.com managed in [aws](https://us-east-1.console.aws.amazon.com/route53/v2/hostedzones?region=us-east-1#ListRecordSets/Z0088796TA5N0V1P2OJ9) with account *aws2025_sem1_at_tgedr.com*
+
+
+## Hugo Theme Stack Starter Template
 
 This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
 
 It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
 
-## Get started
+### Get started
 
 1. Click *Use this template*, and create your repository as `<username>.github.io` on GitHub.
 ![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
@@ -28,7 +33,7 @@ It comes with a basic theme structure and configuration. GitHub action has been 
 
 In case you don't want to use GitHub codespace, you can also run this template in your local machine. **You need to install Git, Go and Hugo extended locally.**
 
-## Update theme manually
+### Update theme manually
 
 Run:
 
@@ -39,7 +44,7 @@ hugo mod tidy
 
 > This starter template has been configured with `v3` version of theme. Due to the limitation of Go module, once the `v4` or up version of theme is released, you need to update the theme manually. (Modifying `config/module.toml` file)
 
-## Deploy to another static page hostings
+### Deploy to another static page hostings
 
 If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine. 
 
