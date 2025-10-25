@@ -1,20 +1,20 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
+title: hello world
+description: welcome to tgedr.com
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2025-10-25 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - org
 tags:
-    - Example Tag
+    - organisation
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+Welcome to *tgedr.com*
 
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
+The purpose of this site is to publish work done on data science, software and data engineering.
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+Experiments, research, PoC's and demos of actual solutions in production will be described here in posts as succint as possible and with careful detail on how you can replicate and reuse it.
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+Do peruse away and reach out to us on `info@tgedr.com` if you have any comment or eventually if you want to join us :-)
