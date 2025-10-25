@@ -13,8 +13,8 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 Welcome to *tgedr.com*
 
-The purpose of this site is to publish work done on data science, software and data engineering.
+This site is dedicated to sharing our work in data science, software, and data engineering.
 
-Experiments, research, PoC's and demos of actual solutions in production will be described here in posts as succint as possible and with careful detail on how you can replicate and reuse it.
+You'll find experiments, research, proof-of-concepts, and real-world production solutions. Each post is designed to be concise yet detailed enough for you to replicate and adapt our work.
 
-Do peruse away and reach out to us on `info@tgedr.com` if you have any comment or eventually if you want to join us :-)
+Browse around and don't hesitate to contact us at info@tgedr.com—whether you have feedback or want to collaborate with us!
